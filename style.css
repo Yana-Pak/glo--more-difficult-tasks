@@ -1,0 +1,9 @@
+li{
+    list-style-type: none;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: 900;
+}
